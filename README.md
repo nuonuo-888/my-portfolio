@@ -2,6 +2,16 @@
 
 A sleek, responsive portfolio website built with **Astro**, **React**, and **Tailwind CSS**, featuring modern animations and stunning glassmorphism effects.
 
+## Deploy
+
+One-click deploy this starter to Tencent EdgeOne Pages (installs, builds, and serves `dist/` automatically).
+
+[![Deploy to Tencent EdgeOne Pages](https://img.shields.io/badge/Deploy-Tencent%20EdgeOne%20Pages-006EFF?style=for-the-badge&logo=tencentqq&logoColor=white)](https://edgeone.ai/pages/new?template=https%3A%2F%2Fgithub.com%2Fnuonuo-888%2Fmy-portfolio&output-directory=dist&build-command=npm+run+build&install-command=npm+install&origin_from=childtom)
+
+## Preview
+
+[![Preview](https://img.shields.io/badge/Preview-4ECCA3?style=for-the-badge&logo=globe&logoColor=white)](https://my-portfolio.edgeone.app/)
+
 ![Portfolio Screenshot](https://github.com/user-attachments/assets/4f2466f1-1ebe-4cbe-857c-40eccd63c384)
 
 ## ✨ Features
@@ -73,10 +83,7 @@ export const workExperience = [
     location: "Location",
     position: "Your Position",
     period: "Start Date - End Date",
-    achievements: [
-      "Achievement 1",
-      "Achievement 2",
-    ],
+    achievements: ["Achievement 1", "Achievement 2"],
   },
 ];
 ```
@@ -90,10 +97,7 @@ export const education = [
     location: "Location",
     degree: "Your Degree",
     period: "Start Date - End Date",
-    achievements: [
-      "Achievement 1",
-      "Achievement 2",
-    ],
+    achievements: ["Achievement 1", "Achievement 2"],
   },
 ];
 ```
@@ -115,10 +119,7 @@ export const projects = [
   {
     title: "Project Name",
     github: "https://github.com/yourusername/project",
-    description: [
-      "What it does",
-      "Technologies used",
-    ],
+    description: ["What it does", "Technologies used"],
   },
 ];
 ```
