@@ -24,10 +24,6 @@ One-click deploy this starter to Tencent EdgeOne Pages (installs, builds, and se
 - **Modular Structure** – Built for easy customization and scalability
 - **SEO Friendly** – Structured content and meta tags for better visibility
 
-## 🚀 Demo
-
-👉 [Live Demo](https://rishilol.vercel.app/)
-
 ## 🛠 Getting Started
 
 ### Prerequisites
@@ -155,10 +151,6 @@ npm run preview
 # or
 yarn preview
 ```
-
-## 📤 Deployment
-
-Easily deploy to platforms like **Vercel**, **Netlify**, **GitHub Pages**, or any static host of your choice.
 
 ## 📝 License
 
