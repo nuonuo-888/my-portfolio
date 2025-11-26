@@ -7,6 +7,7 @@ import edgeoneAdapter from "@edgeone/astro";
 
 // https://astro.build/config
 export default defineConfig({
+  site: 'https://my-portfolio.edgeone.app/',
   vite: {
       plugins: [tailwindcss(), edgeoneAdapter()],
   },
